@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: linear-gradient(blue, skyblue);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input{
+    text-align: center;
+    margin: 100px;
+}
+
+input[type="text"]{
+    height: 50px;
+    width:600px;
+    background: white;
+    font-weight: bold;
+    padding: 10px 10px;
+
+}
+
+input[type="submit"]{
+    height: 50px;
+    width:100px;
+    background: white;
+    font-weight: bold;
+    
+}
+
+.display{
+    text-align: center;
+}
+
+.display h1{
+    margin: -200px;
+    color: aliceblue;
+}
